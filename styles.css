@@ -1,0 +1,44 @@
+body
+{
+	background-color:#FFFFF0;
+}
+.row
+{
+	background-color:white;
+	margin-top:5%;
+	margin-bottom:5%;
+	margin-left:5%;
+	margin-right:5%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius:5px;
+	overflow: hidden;
+}
+
+img
+{
+	width: 100%
+}
+
+.secLeft
+{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.secRight
+{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.secRight h1
+{
+	text-align: center;
+}
+
+.secRight p
+{
+	padding-left:5%;
+	padding-right:5%;
+
+}
